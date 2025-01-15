@@ -40,7 +40,7 @@ const HeroSection=()=>{
        </div>
 
        <div className="col-span-5 place-self-center mt-4 lg:mt-0">
-       <div className="rounded-full mx-4 mt-7 pt-4 bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
+       <div className="rounded-full mx-4 mt-14 pt-4 bg-[#181818] w-[200px] h-[200px] lg:w-[400px] lg:h-[400px] relative">
        <Image src="/images/hero-image.jpeg" width={300}
             height={300} alt="hero image" className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2
             left-1/2 rounded-full "
